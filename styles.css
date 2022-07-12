@@ -36,7 +36,6 @@ main {
     background-color: var(--white);
 }
 .mobile-image {
-    background-image: url('../images/image-product-mobile.jpg');
     width: auto;
     max-width: 35rem;
     border-radius: 10px 10px 0 0;
